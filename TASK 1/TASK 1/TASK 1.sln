@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POUNDS-KG CONVERTER", "POUNDS-KG CONVERTER.csproj", "{0082B49F-1C62-4026-A0D3-3CA140D031BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0082B49F-1C62-4026-A0D3-3CA140D031BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0082B49F-1C62-4026-A0D3-3CA140D031BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0082B49F-1C62-4026-A0D3-3CA140D031BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0082B49F-1C62-4026-A0D3-3CA140D031BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743267D8-917E-4E98-88BD-726A62CA21A5}
+	EndGlobalSection
+EndGlobal
